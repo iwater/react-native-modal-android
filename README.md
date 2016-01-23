@@ -1,7 +1,7 @@
 # react-native-modal-android
 The <Modal /> component has the same API as on iOS - http://facebook.github.io/react-native/docs/modal.html#content
 The animated prop is not implemented yet.
-I just wrap that PR code which will ship with react-native for react-native 0.18- 
+I just wrap that PR code which will ship with react-native
 The origin author is satya164 @ https://github.com/satya164
 
 [![npm version](http://img.shields.io/npm/v/react-native-modal-android.svg?style=flat-square)](https://npmjs.org/package/react-native-modal-android "View this project on npm")
