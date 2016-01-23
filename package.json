@@ -1,0 +1,23 @@
+{
+  "name": "react-native-modal-android",
+  "version": "0.0.1",
+  "description": "The <Modal /> component has the same API as on iOS - http://facebook.github.io/react-native/docs/modal.html#content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "modal",
+    "android"
+  ],
+  "author": "iwater <iwater@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/iwater/react-native-modal-android",
+  "bugs": "https://github.com/iwater/react-native-modal-android/issues",
+  "peerDependencies": {
+    "react-native": ">=0.13"
+  }
+}
